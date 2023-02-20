@@ -9,11 +9,11 @@
     </parent>
     <groupId>musialowski.kmail</groupId>
     <artifactId>Jokes-App</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>Spring-Jokes-App</name>
     <description>Jokes-App</description>
     <properties>
-        <java.version>19</java.version>
+        <java.version>17</java.version>
     </properties>
     <dependencies>
         <dependency>
