@@ -9,7 +9,7 @@
     </parent>
     <groupId>musialowski.kmail</groupId>
     <artifactId>Jokes-App</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>Spring-Jokes-App</name>
     <description>Jokes-App</description>
     <properties>
